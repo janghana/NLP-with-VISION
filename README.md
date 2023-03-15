@@ -1,7 +1,10 @@
 # NLP-with-VISION
 
 In this work, an idea for an NLP project based on the field of vision is included.
-Click this link for more information. : ()[]
+<br>
+This repository contains the code for NLP with VISION introduced in the following page:
+<br>
+The code is built on Pytorch.
 
 ### Abstract
 
