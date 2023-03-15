@@ -8,7 +8,7 @@ This repository contains the code for NLP with VISION introduced in the followin
 The code is built on Pytorch.
 <br>
 
-### ** *Abstract* **
+### ***Abstract***
 
 In recent years, the development of Large language models (LLMs) has shown incredible progress.
 (e.g., T5, BLOOM, GPT-4). This NLP field is used in various fields such as chatbot, question answering, and machine translation. Accordingly, the importance of the NLP field is growing.
