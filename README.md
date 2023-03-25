@@ -3,7 +3,7 @@
 In this work, an idea for an NLP project based on the field of vision is included.
 <br><br>
 This repository contains the code for NLP with VISION introduced in the following page:
-[Project Info.](https://www.notion.so/NLP-with-VISION-c1617cac8c4147908c8b12062e9c705f?pvs=4)
+[Project Info.](https://www.notion.so/NLP-with-VISION-main-4fa5a8102b92422c861167863168f884?pvs=4)
 <br><br>
 The code is built on Pytorch.
 <br>
